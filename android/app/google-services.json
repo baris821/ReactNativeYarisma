@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767944071709",
+    "firebase_url": "https://deneme-b6f35.firebaseio.com",
+    "project_id": "deneme-b6f35",
+    "storage_bucket": "deneme-b6f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767944071709:android:c48bd4e3ed4e738c",
+        "android_client_info": {
+          "package_name": "com.game2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767944071709-pbtkjh94420pn3a11d9sjv519ch6h90m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6VqvNyo-RSQ8aYpU620iRXwQbpO-pgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
